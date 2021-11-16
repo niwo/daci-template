@@ -10,7 +10,7 @@ Folgende **Ziele** verfolgen wir mit dem einheitlichen Vorgehen:
 
 - **Nachvollziehbarkeit**: Entscheide sind auch für Teammembers die nicht in den Prozess involviert waren nachvollziehbar.
 - **Transparenz**: Teammembers sind über wichtige Entscheide informiert
-- **Qualität**: Durch den Prozess nehmen wir uns die nötige Zeit um wichtige Entscheidungen im Team zu treffen.
+- **Qualität**: Durch den Prozess nehmen wir uns die nötige Zeit, um wichtige Entscheidungen im Team zu treffen.
   Dadurch können wir die Qualität und damit auch die **Akzeptanz** von Entscheidungen erhöhen.
 
 ## An welchem Vorgehensmodell orientieren wir uns?
